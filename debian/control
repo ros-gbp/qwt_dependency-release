@@ -1,0 +1,12 @@
+Source: ros-jade-qwt-dependency
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-qwt-dependency
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-qwt5-qt4
+Description: This encapsulates the Qwt dependency for a specific ROS distribution and its Qt version
