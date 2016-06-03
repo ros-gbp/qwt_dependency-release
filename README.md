@@ -1,3 +1,26 @@
+## qwt_dependency (indigo) - 1.0.1-0
+
+The packages in the `qwt_dependency` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo qwt_dependency` on `Fri, 03 Jun 2016 21:33:34 -0000`
+
+The `qwt_dependency` package was released.
+
+Version of package(s) in repository `qwt_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/qwt_dependency.git
+- release repository: https://github.com/ros-gbp/qwt_dependency-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-0`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## qwt_dependency (indigo) - 1.0.0-0
 
 The packages in the `qwt_dependency` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo qwt_dependency` on `Mon, 11 Apr 2016 19:14:57 -0000`
