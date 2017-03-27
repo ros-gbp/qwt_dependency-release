@@ -91,7 +91,7 @@ tracks:
     release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
-    ros_distro: kinetic
+    ros_distro: lunar
     vcs_type: git
     vcs_uri: https://github.com/ros-visualization/qwt_dependency.git
     version: :{auto}
