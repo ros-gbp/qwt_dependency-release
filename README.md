@@ -1,3 +1,26 @@
+## qwt_dependency (melodic) - 1.1.0-0
+
+The packages in the `qwt_dependency` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic qwt_dependency` on `Tue, 30 Jan 2018 19:43:54 -0000`
+
+The `qwt_dependency` package was released.
+
+Version of package(s) in repository `qwt_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/qwt_dependency.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## qwt_dependency (lunar) - 1.1.0-0
 
 The packages in the `qwt_dependency` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar qwt_dependency` on `Mon, 27 Mar 2017 20:53:46 -0000`
