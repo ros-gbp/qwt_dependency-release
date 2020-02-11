@@ -1,3 +1,26 @@
+## qwt_dependency (noetic) - 1.1.0-2
+
+The packages in the `qwt_dependency` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic qwt_dependency` on `Tue, 11 Feb 2020 00:39:12 -0000`
+
+The `qwt_dependency` package was released.
+
+Version of package(s) in repository `qwt_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/qwt_dependency.git
+- release repository: https://github.com/ros-gbp/qwt_dependency-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.1.0-1`
+- new version: `1.1.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## qwt_dependency (noetic) - 1.1.0-1
 
 The packages in the `qwt_dependency` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic qwt_dependency` on `Tue, 11 Feb 2020 00:07:02 -0000`
